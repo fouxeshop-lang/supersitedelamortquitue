@@ -25,12 +25,15 @@ body {
    2. LA MISE EN PAGE PRINCIPALE (FLEXBOX)
    ========================================= */
 .ecran-jeu {
- display: flex;
- justify-content: center; /* Centre horizontalement */
- align-items: center;   /* Centre verticalement */
- min-height: calc(100vh - 60px);    /* Prend 100% de la hauteur de l'écran */
- padding: 20px;      /* Empêche la boîte de coller aux bords sur petit écran */
- box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  /* Laisse l'espace en haut et en bas pour ne rien superposer */
+  min-height: calc(100vh - 120px); 
+  
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 /* =========================================
@@ -191,9 +194,7 @@ button:active {
 /* =========================================
    8. LE FOOTER (SIGNATURE)
    ========================================= */
-/* =========================================
-   8. LE FOOTER (SIGNATURE)
-   ========================================= */
+
 footer {
   text-align: center;
   font-family: 'VT323', monospace;
@@ -208,4 +209,19 @@ footer {
   margin-top: auto; 
   
   /* (On a supprimé position: absolute et bottom: 0) */
+}
+/* =========================================
+   9. LE HEADER (EN-TÊTE)
+   ========================================= */
+header {
+  text-align: center;
+  font-family: 'VT323', monospace;
+  color: #3e2723;          /* Le même marron que le reste */
+  font-size: 28px;         /* Un peu plus grand que le footer pour faire "Titre" */
+  padding: 15px;
+  width: 100%;
+  box-sizing: border-box;
+  
+  /* Un petit effet d'ombre sous le texte pour le faire ressortir sur le fond rose */
+  text-shadow: 2px 2px 0px rgba(255, 255, 255, 0.5);
 }
