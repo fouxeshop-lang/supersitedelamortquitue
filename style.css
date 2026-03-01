@@ -191,18 +191,21 @@ button:active {
 /* =========================================
    8. LE FOOTER (SIGNATURE)
    ========================================= */
+/* =========================================
+   8. LE FOOTER (SIGNATURE)
+   ========================================= */
 footer {
   text-align: center;
   font-family: 'VT323', monospace;
-  color: #3e2723;          /* Le même marron que le reste du texte */
-  font-size: 18px;         /* Un peu plus petit que le texte principal */
+  color: #3e2723;          
+  font-size: 18px;         
   padding: 15px;
-  margin: 10px;
   width: 100%;
   box-sizing: border-box;
-  opacity: 0.7;            /* Le rend un peu transparent/discret */
+  opacity: 0.7;            
   
-  /* S'assure qu'il reste bien en bas de la page */
-  position: absolute; 
-  bottom: 0;
+  /* LIGNE MAGIQUE : on s'assure qu'il est bien repoussé en bas */
+  margin-top: auto; 
+  
+  /* (On a supprimé position: absolute et bottom: 0) */
 }
