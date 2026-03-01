@@ -35,7 +35,7 @@ Encore une fois, c’est moi qui te contacte. Je sais que je me contredis, mais 
 
 Ton junkie préféré,
 Mon petit Miel d’amour.`,
-'<img id="image" src="img/r1hs2odoywnkd9mtlftpy25kwbw-593.jpg" alt="Image">'
+'<img id="image" src="img/M+F.jpg" alt="Image">'
 ]
 
 // On crée une variable pour stocker notre "chronomètre"
