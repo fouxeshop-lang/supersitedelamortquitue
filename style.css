@@ -317,3 +317,27 @@ header {
   outline: none; /* Enlève la bordure bleue de base quand on clique dedans */
   background-color: #fff; /* Devient blanc quand elle écrit */
 }
+
+/* =========================================
+   11. LE COEUR D'INITIALES M+F
+   ========================================= */
+#coeur-initiales {
+  position: absolute;
+  width: 50px;             /* Petite taille, tu peux l'agrandir si tu veux */
+  height: auto;
+  
+  /* POSITIONNEMENT : On le place en bas à droite de la photo finale */
+  bottom: 120px;           /* Ajusté pour flotter près de la photo */
+  right: 30px;
+  
+  image-rendering: pixelated; /* Pour garder le look pixel ! */
+  z-index: 10;             /* S'assure qu'il est au-dessus de la photo */
+  
+  /* Petite animation de "pop" quand il apparaît */
+  animation: pop 0.3s ease-out;
+}
+
+@keyframes pop {
+  0% { transform: scale(0); }
+  100% { transform: scale(1); }
+}

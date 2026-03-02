@@ -125,17 +125,23 @@ let conteur = 0;
 function affichage() {
     let zonetexte = document.getElementById("texte-dialogue");
     let boutonDroite = document.getElementById("droite");
+    // RÉCUPÈRE LE COEUR
+    let coeur = document.getElementById("coeur-initiales"); 
     
     // On choisit le bon tableau selon le mode dans lequel on se trouve
     let tableauActuel = modeQuestions ? questions : paragraphes;
 
-    // Si on est à la toute fin de la déclaration (l'image)
+    // Si on est à la toute fin de la déclaration (l'image finale)
     if (conteur === tableauActuel.length - 1 && !modeQuestions) {
         zonetexte.innerHTML = tableauActuel[conteur];
         boutonDroite.innerText = "Passer aux questions ►";
+        // AFFICHE LE COEUR
+        if (coeur) coeur.style.display = "block"; 
     } 
     else {
         effetMachineAEcrire(tableauActuel[conteur], zonetexte);
+        // CACHE LE COEUR PARTAOUT AILLEURS
+        if (coeur) coeur.style.display = "none";
         
         // Si on est à la TOUTE DERNIÈRE question
         if (conteur === questions.length - 1 && modeQuestions) {
@@ -224,8 +230,8 @@ function envoyerParWhatsApp() {
     
     // On boucle sur toutes les questions pour assembler le texte
     for(let i = 0; i < questions.length; i++) {
-        texteMessage += "❓ " + questions[i] + "\n";
-        texteMessage += "💬 " + (reponsesManel[i] || "Pas de réponse") + "\n\n";
+        texteMessage +=  questions[i] + "\n";
+        texteMessage += "reponse : " + (reponsesManel[i] || "Pas de réponse") + "\n\n";
     }
     
     // Transforme le texte pour qu'un lien internet puisse le lire
