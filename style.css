@@ -225,3 +225,74 @@ header {
   /* Un petit effet d'ombre sous le texte pour le faire ressortir sur le fond rose */
   text-shadow: 2px 2px 0px rgba(255, 255, 255, 0.5);
 }
+
+/* =========================================
+   10. L'ÉCRAN D'INTRO ET L'ENVELOPPE
+   ========================================= */
+#ecran-intro {
+  position: fixed; /* Reste figé par-dessus tout l'écran */
+  top: 0; left: 0; width: 100%; height: 100%;
+  
+  /* On lui donne le même fond rose quadrillé que le reste du site */
+  background-color: #ffd1dc; 
+  background-image: 
+    linear-gradient(rgba(255, 255, 255, 0.3) 2px, transparent 2px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.3) 2px, transparent 2px);
+  background-size: 20px 20px;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000; /* Assure que c'est au-dessus de tout le reste ! */
+  
+  /* L'animation de fondu pour disparaître */
+  transition: opacity 1s ease-in-out; 
+}
+
+.enveloppe-wrapper {
+  position: relative;
+  width: 300px;
+  height: 200px;
+  background-color: #d87093; /* Rose foncé pour l'enveloppe */
+  border: 4px solid #3e2723;
+  box-shadow: 8px 8px 0px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+/* Le rabat (le triangle du haut) */
+.rabat {
+  position: absolute;
+  top: 0; left: 0;
+  width: 0; height: 0;
+  /* Astuce CSS pour créer un triangle parfait */
+  border-left: 146px solid transparent;
+  border-right: 146px solid transparent;
+  border-top: 100px solid #fbbbb9; /* Rose plus clair pour faire du relief */
+  
+  transform-origin: top; /* Indique que l'animation tourne autour du haut */
+  transition: transform 0.8s ease-in-out; /* Durée de l'ouverture */
+  z-index: 2;
+}
+
+/* Le texte clignotant sous l'enveloppe */
+.texte-cliquez {
+  position: absolute;
+  bottom: -40px;
+  width: 100%;
+  text-align: center;
+  font-family: 'VT323', monospace;
+  font-size: 24px;
+  color: #3e2723;
+  animation: clignote 1.5s infinite;
+}
+
+@keyframes clignote {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.2; }
+}
+
+/* LA CLASSE MAGIQUE QUI OUVRE L'ENVELOPPE */
+.enveloppe-ouverte .rabat {
+  transform: rotateX(180deg); /* Ouvre le rabat vers le haut ! */
+  z-index: 0;
+}
