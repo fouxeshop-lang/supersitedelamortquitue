@@ -296,3 +296,24 @@ header {
   transform: rotateX(180deg); /* Ouvre le rabat vers le haut ! */
   z-index: 0;
 }
+
+
+/* Le style de la zone où elle va écrire */
+#champ-reponse {
+  width: 100%;
+  height: 100px;
+  margin-top: 15px;
+  background-color: #ffd1dc; /* Fond rose pour bien différencier de la question */
+  border: 4px solid #3e2723;
+  font-family: 'VT323', monospace;
+  font-size: 20px;
+  color: #3e2723;
+  padding: 10px;
+  box-sizing: border-box;
+  resize: none; /* Empêche d'agrandir la boîte manuellement */
+}
+
+#champ-reponse:focus {
+  outline: none; /* Enlève la bordure bleue de base quand on clique dedans */
+  background-color: #fff; /* Devient blanc quand elle écrit */
+}
