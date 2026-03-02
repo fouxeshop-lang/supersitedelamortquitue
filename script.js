@@ -80,7 +80,7 @@ function affichage() {
     }
 }
 
-affichage(); // Affiche le premier paragraphe au chargement
+//affichage(); // Affiche le premier paragraphe au chargement
 
 let monBoutonDroite = document.getElementById("droite");
     monBoutonDroite.addEventListener("click", function () {
@@ -101,3 +101,29 @@ let monBoutonGauche = document.getElementById("gauche");
         }
         affichage()
     });
+
+// --- LOGIQUE DE L'ANIMATION DE L'ENVELOPPE ---
+
+let ecranIntro = document.getElementById("ecran-intro");
+let enveloppe = document.getElementById("enveloppe");
+
+enveloppe.addEventListener("click", function() {
+    
+    // 1. On déclenche l'animation CSS d'ouverture (le rabat se lève)
+    enveloppe.classList.add("enveloppe-ouverte");
+    
+    // 2. On attend 1 seconde que le rabat soit ouvert, puis on fait disparaître l'écran
+    setTimeout(function() {
+        ecranIntro.style.opacity = "0"; // Déclenche le fondu CSS
+        
+        // 3. On attend encore 1 seconde que le fondu soit fini pour supprimer l'écran et lancer le texte !
+        setTimeout(function() {
+            ecranIntro.style.display = "none"; // Enlève l'écran d'intro pour pouvoir cliquer sur les boutons en dessous
+            
+            affichage(); // LA MACHINE À ÉCRIRE COMMENCE SEULEMENT MAINTENANT !
+            
+        }, 1000); // 1000 millisecondes = 1 seconde
+        
+    }, 800); // 800ms correspond au temps d'ouverture de l'enveloppe dans le CSS
+    
+});
