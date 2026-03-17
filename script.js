@@ -3,7 +3,7 @@ const paragraphes = [
 
 Encore une fois, c’est moi qui te contacte. Je sais que je me contredis, mais malheureusement je ne suis qu’un simple humain qui a ses faiblesses (et malheureusement, qui est faible face à la personne que je veux appeler ma femme).`,
 
-  `Qu’Allah t’accorde une longue vie, pleine de bonheur, pieuse et prospère. Tu es une personne incroyable : intelligente, belle, gentille, humaine, honnête, sensible, pieuse, drôle, entière… et plein de trucs auxquels je ne pense pas forcément tout de suite au moment où je fais ce texte.`,
+  `Qu’Allah t’accorde une longue vie, pleine de bonheur, pieuse et prospère, qu'il accepte notre mois de Jeûne. Tu es une personne incroyable : intelligente, belle, gentille, humaine, honnête, sensible, pieuse, drôle, entière… et plein de trucs auxquels je ne pense pas forcément tout de suite au moment où je fais ce texte.`,
 
   `Te rencontrer a été un élément déclencheur chez moi. Comme je te l’ai déjà dit, tu es la première fille qui me fait réfléchir au mariage, et pour cela je t’en remercie. Cela me pousse à être un meilleur homme au quotidien, à me fixer des objectifs que ça soit pour ici-bas et pour l’au-delà. Malheureusement, je n’ai pas la stabilité financière que tes parents t’offrent actuellement, mais je ferai tout mon possible pour te l’offrir, Inshallah.`,
 
@@ -21,7 +21,7 @@ Encore une fois, c’est moi qui te contacte. Je sais que je me contredis, mais 
 
   `Durant les vacances, lorsque Inès est partie, j’aurais pu te rejoindre, j’aurais voulu te rejoindre, mais je n’ai pas pu car j’avais peur de moi-même, peur de faire face à mes sentiments. Ce choix, je l’ai regretté. Au final c’est Ayoub qui t’a rejointe et, malgré moi, j’étais jaloux. Jaloux de cette petite complicité que tu avais avec lui. C’était tellement un sentiment que je n’avais jamais éprouvé que c’est Mohamed qui me l’a fait remarquer ; il a vu comment je regardais lorsque vous parliez tous les deux, mais je n’avais toujours pas le courage d’assumer mes sentiments.`,
 
-  `J’étais tellement timide face à toi. Un jour quand je t'ai déposée au CV avec le trafic, je sentais ta brume, elle sentait super bon, mais même ça je n’ai pas pu te le dire.`,
+  `J’étais tellement timide face à toi. Un jour quand je t'ai déposée au Centre-Ville avec le trafic, je sentais ta brume, elle sentait super bon, mais même ça je n’ai pas pu te le dire.`,
 
   `Ce n’est pas contre toi que je voulais qu’on arrête de parler. Il y avait le côté religieux, mais il y avait une autre raison. Je devenais trop dépendant de notre relation, je pensais à toi avec excès, je n’arrivais plus à me concentrer. N’étant pas habitué, cela me paraissait malsain d’exprimer un sentiment aussi fort pour une personne. Quand je te voyais, et encore aujourd’hui, mon cœur se serre. Parler avec toi devenait comme une drogue (comme un junkie finalement…), mais je ne voulais pas trop forcer car je ne savais pas si tu m’appréciais autant que moi je t’appréciais.`,
 
@@ -33,7 +33,7 @@ Encore une fois, c’est moi qui te contacte. Je sais que je me contredis, mais 
 
   `Encore désolé, c’est toujours moi qui te contacte et qui veux recouper la conversation, malheureusement j’écoute plus mon cœur que ma raison. Profite bien de tes vacances (sans moi, pour ton plus grand plaisir).`,
 
-  `Joyeux anniversaire ❤️ l’amoureuse des chats (désolé c’est plus une déclaration qu’un message d’anniversaire). Je pense que c’est la première fois que j’ouvre mon cœur à quelqu’un.`,
+  `Eïd Mubarak ❤️ l’amoureuse des chats (désolé c’est plus une déclaration qu’un message d’anniversaire). Je pense que c’est la première fois que j’ouvre mon cœur à quelqu’un.`,
 
   `Merci pour tout ce que tu m’as apporté.
 
