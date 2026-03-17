@@ -139,14 +139,13 @@ function affichage() {
     let boutonDroite = document.getElementById("droite");
     let coeur = document.getElementById("coeur-initiales"); 
     
-    // On choisit le bon tableau selon le mode dans lequel on se trouve
+    
     let tableauActuel = modeQuestions ? questions : paragraphes;
 
-    // Si on est à la toute fin de la déclaration (l'image finale)
+    
     if (conteur === tableauActuel.length - 1 && !modeQuestions) {
         
-        // LA LIGNE MAGIQUE QUI RÉPARE LE BUG :
-        // On force la machine à écrire précédente à s'arrêter immédiatement !
+        
         clearInterval(chronoMachine); 
         
         zonetexte.innerHTML = tableauActuel[conteur];
@@ -182,7 +181,7 @@ monBoutonDroite.addEventListener("click", function () {
             // On affiche la zone de saisie et on cache le titre
             document.getElementById("zone-reponse").style.display = "block";
             
-            // On modifie le petit badge (vérifie que tu as bien class="badge-nom" id="badge" dans ton HTML)
+            // On modifie le petit badge
             let badge = document.querySelector(".badge-nom");
             if(badge) badge.innerText = "Questionnaire (Sérieux)";
             
