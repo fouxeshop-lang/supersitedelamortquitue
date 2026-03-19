@@ -44,7 +44,7 @@ Avec le cœur serré. Je t’ai fait du mal et je m’en veux énormément pour 
 
   `Je sais que tu as été éprouvée, pas seulement par tes relations, mais aussi par rapport à ton père. Moi, j’ai eu un père absent qui ne nous donnait pas d’amour. Ton harcèlement scolaire et ton isolement, je les comprends car j’en ai subi énormément dû à mon surpoids. J'en pleurais la nuit. C'est ce qui m’a poussé à être seul et à me débrouiller. Ayant vécu cela, je voulais t’aider par bonté, par gentillesse, par amour, mais j’ai simplement tout gâché.`,
 
-  `Je crois toujours en nous, mais te demander une autre chance serait déplacé de ma part après t’avoir fait souffrir comme tous les autres finalement. Est-ce que je te mérite après tout ce que je t’ai dit ?`,
+  `Je crois toujours en nous, mais te demander une autre chance serait déplacé de ma part après t’avoir fait souffrir comme tous les autres finalement. Est-ce que je te mérite après tout ce que je t’ai dit ? je ne pense pas`,
 
   `J’ai un gros problème : ma colère. Je ne la contrôle pas vraiment, c’est pour cela que j’essaie d’être toujours calme et froid. J’étais violent quand j’étais petit, c’était la seule solution que j’avais trouvée pour régler mes problèmes. Est-ce que c’était la bonne ? Sur le coup, oui, mais sur le long terme, non. M’exprimer est un exercice difficile pour moi, car les coups avaient remplacé les mots.`,
 
