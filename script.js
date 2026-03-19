@@ -3,7 +3,7 @@ const paragraphes = [
 
 Encore une fois, c’est moi qui te contacte. Je sais que je me contredis, mais malheureusement je ne suis qu’un simple humain qui a ses faiblesses (et malheureusement, qui est faible face à la personne que je veux appeler ma femme).`,
 
-  `Qu’Allah t’accorde une longue vie, pleine de bonheur, pieuse et prospère, qu'il accepte notre mois de Jeûne. Tu es une personne incroyable : intelligente, belle, gentille, humaine, honnête, sensible, pieuse, drôle, entière… et plein de trucs auxquels je ne pense pas forcément tout de suite au moment où je fais ce texte.`,
+  `Qu’Allah t’accorde une longue vie, pleine de bonheur, pieuse et prospère. Tu es une personne incroyable : intelligente, belle, gentille, humaine, honnête, sensible, pieuse, drôle, entière… et plein de trucs auxquels je ne pense pas forcément tout de suite au moment où je fais ce texte.`,
 
   `Te rencontrer a été un élément déclencheur chez moi. Comme je te l’ai déjà dit, tu es la première fille qui me fait réfléchir au mariage, et pour cela je t’en remercie. Cela me pousse à être un meilleur homme au quotidien, à me fixer des objectifs que ça soit pour ici-bas et pour l’au-delà. Malheureusement, je n’ai pas la stabilité financière que tes parents t’offrent actuellement, mais je ferai tout mon possible pour te l’offrir, Inshallah.`,
 
@@ -21,7 +21,7 @@ Encore une fois, c’est moi qui te contacte. Je sais que je me contredis, mais 
 
   `Durant les vacances, lorsque Inès est partie, j’aurais pu te rejoindre, j’aurais voulu te rejoindre, mais je n’ai pas pu car j’avais peur de moi-même, peur de faire face à mes sentiments. Ce choix, je l’ai regretté. Au final c’est Ayoub qui t’a rejointe et, malgré moi, j’étais jaloux. Jaloux de cette petite complicité que tu avais avec lui. C’était tellement un sentiment que je n’avais jamais éprouvé que c’est Mohamed qui me l’a fait remarquer ; il a vu comment je regardais lorsque vous parliez tous les deux, mais je n’avais toujours pas le courage d’assumer mes sentiments.`,
 
-  `J’étais tellement timide face à toi. Un jour quand je t'ai déposée au Centre-Ville avec le trafic, je sentais ta brume, elle sentait super bon, mais même ça je n’ai pas pu te le dire.`,
+  `J’étais tellement timide face à toi. Un jour quand je t'ai déposée au CV avec le trafic, je sentais ta brume, elle sentait super bon, mais même ça je n’ai pas pu te le dire.`,
 
   `Ce n’est pas contre toi que je voulais qu’on arrête de parler. Il y avait le côté religieux, mais il y avait une autre raison. Je devenais trop dépendant de notre relation, je pensais à toi avec excès, je n’arrivais plus à me concentrer. N’étant pas habitué, cela me paraissait malsain d’exprimer un sentiment aussi fort pour une personne. Quand je te voyais, et encore aujourd’hui, mon cœur se serre. Parler avec toi devenait comme une drogue (comme un junkie finalement…), mais je ne voulais pas trop forcer car je ne savais pas si tu m’appréciais autant que moi je t’appréciais.`,
 
@@ -33,17 +33,39 @@ Encore une fois, c’est moi qui te contacte. Je sais que je me contredis, mais 
 
   `Encore désolé, c’est toujours moi qui te contacte et qui veux recouper la conversation, malheureusement j’écoute plus mon cœur que ma raison. Profite bien de tes vacances (sans moi, pour ton plus grand plaisir).`,
 
-  `Eïd Mubarak ❤️ l’amoureuse des chats (désolé c’est plus une déclaration qu’un message d’anniversaire). Je pense que c’est la première fois que j’ouvre mon cœur à quelqu’un.`,
-
-  `Merci pour tout ce que tu m’as apporté.
+  `Joyeux anniversaire ❤️ l’amoureuse des chats (désolé c’est plus une déclaration qu’un message d’anniversaire). Je pense que c’est la première fois que j’ouvre mon cœur à quelqu’un.
+  
+Merci pour tout ce que tu m’as apporté.
 
 Ton junkie préféré.`,
+
+  `Ce texte, je l’ai écrit jeudi.
+Avec le cœur serré. Je t’ai fait du mal et je m’en veux énormément pour ça. Je te jure que ce n’est pas ce que je souhaite. J’ai porté un jugement sur toi et tes problèmes. Je ne suis pas psy, je n’ai pas de diplôme, je voulais juste en savoir plus sur ton histoire, sur toi tout simplement. Je pensais pouvoir t’aider.`,
+
+  `Je sais que tu as été éprouvée, pas seulement par tes relations, mais aussi par rapport à ton père. Moi, j’ai eu un père absent qui ne nous donnait pas d’amour. Ton harcèlement scolaire et ton isolement, je les comprends car j’en ai subi énormément dû à mon surpoids. J'en pleurais la nuit. C'est ce qui m’a poussé à être seul et à me débrouiller. Ayant vécu cela, je voulais t’aider par bonté, par gentillesse, par amour, mais j’ai simplement tout gâché.`,
+
+  `Je crois toujours en nous, mais te demander une autre chance serait déplacé de ma part après t’avoir fait souffrir comme tous les autres finalement. Est-ce que je te mérite après tout ce que je t’ai dit ?`,
+
+  `J’ai un gros problème : ma colère. Je ne la contrôle pas vraiment, c’est pour cela que j’essaie d’être toujours calme et froid. J’étais violent quand j’étais petit, c’était la seule solution que j’avais trouvée pour régler mes problèmes. Est-ce que c’était la bonne ? Sur le coup, oui, mais sur le long terme, non. M’exprimer est un exercice difficile pour moi, car les coups avaient remplacé les mots.`,
+
+  `Petit à petit, ces mêmes coups ont été remplacés par le silence. Je subis tout et j’encaisse. Parfois, j’explose quand je suis seul dans ma voiture et que personne ne me voit, ou je me réfugie dans la nourriture. Maintenant, même quand on m’insulte, ça ne me fait rien, car je préfère subir plutôt qu'attaquer.`,
+
+  `J’avais besoin de te raconter tout ça. Je ne me positionne pas en tant que victime, car tout est de ma faute. C’est moi qui ai eu un comportement de merde cet été, et c’est moi qui t'ai fait du mal aujourd’hui.`,
+
+  `Au moment où j’écris, des larmes coulent. Je me sens perdu, mais comme je te l’ai dit, je veux simplement ton bonheur. Pense à toi, je me débrouillerai pour surmonter cette étape de ma vie. J’aurais voulu que cela se termine autrement. Je serai toujours là pour toi si tu as besoin, je te le promets. Tu es celle qui m’a appris à aimer, mais je ne sais pas si je pourrai aimer de nouveau.`,
+
+  `Je ne pensais pas pouvoir pleurer pour toi. Petit à petit, je me rends compte que je t’ai perdue. Après ton passage sur le site, je ne te dérangerai plus jamais. Je n’ai été qu’un poison pour toi, donc je ne m’imposerai plus jamais dans ta vie.`,
+
+  `Bonne continuation. J’espère que tu trouveras mieux que moi, quelqu’un qui sait se contrôler et qui te traite à ta juste valeur.
+  
+Dis-moi s'il te plaît si tu veux ton bracelet ou pas. Réponds au questionnaire s'il te plaît, tes réponses m’intéressent, mais si tu ne veux pas, ce n'est pas grave.`,
 
   `<div class="conteneur-photo">
       <img id="image" src="img/M+F.jpg" alt="Image">
       <img id="coeur-initiales" src="img/coeur-mf.png" alt="Coeur M+F">
   </div>`
 ];
+
 
 const questions = [
   `1. Sur une échelle de 1 à 10, à quel point es-tu rancunière ?`,
